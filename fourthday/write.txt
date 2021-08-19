@@ -1,0 +1,6 @@
+{
+	        "Name": "Mothadi",
+	        "Role": "Trainee",
+	        "Age": 23,
+			"IsFemale": true
+	    }
